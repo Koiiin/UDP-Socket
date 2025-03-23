@@ -1,0 +1,10 @@
+D:\UIT\NT106\Assignment_3\UDP_Client\bin\Debug\UDP_Client.exe.config
+D:\UIT\NT106\Assignment_3\UDP_Client\bin\Debug\UDP_Client.exe
+D:\UIT\NT106\Assignment_3\UDP_Client\bin\Debug\UDP_Client.pdb
+D:\UIT\NT106\Assignment_3\UDP_Client\obj\Debug\UDP_Client.csproj.AssemblyReference.cache
+D:\UIT\NT106\Assignment_3\UDP_Client\obj\Debug\UDP_Client.Client.resources
+D:\UIT\NT106\Assignment_3\UDP_Client\obj\Debug\UDP_Client.Properties.Resources.resources
+D:\UIT\NT106\Assignment_3\UDP_Client\obj\Debug\UDP_Client.csproj.GenerateResource.cache
+D:\UIT\NT106\Assignment_3\UDP_Client\obj\Debug\UDP_Client.csproj.CoreCompileInputs.cache
+D:\UIT\NT106\Assignment_3\UDP_Client\obj\Debug\UDP_Client.exe
+D:\UIT\NT106\Assignment_3\UDP_Client\obj\Debug\UDP_Client.pdb
