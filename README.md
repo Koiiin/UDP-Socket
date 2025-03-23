@@ -26,13 +26,14 @@
 │   ├── Program.cs
 │   ├── App.config
 │   ├── UDP_Client.csproj
+│   ├── UDP_Client.sln
 │── /UDP_Server
 │   ├── Server.cs
 │   ├── Server.Designer.cs
 │   ├── Program.cs
 │   ├── App.config
 │   ├── UDP_Server.csproj
-│── UDP_Client_Server.sln
+│   ├── UDP_Server.sln
 │── README.md
 ```
 
